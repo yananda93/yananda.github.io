@@ -5,7 +5,7 @@ define(['pipAPI','https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualtr
   //Internal studies in Project Implicit found no difference in performance between the words.
   var abilityWords = API.shuffle([ 'bright', 'tenacious', 'logical', 'insightful', 'analytical', 'innovative'
             ]);
-  var personalityWords = API.shuffle([ 'honest', 'considerate', 'warm', 'caring', 'dependable','polite', ''
+  var personalityWords = API.shuffle([ 'honest', 'considerate', 'warm', 'caring', 'dependable','polite'
             ]);
   
     return iatExtension({
