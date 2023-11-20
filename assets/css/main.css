@@ -3092,7 +3092,7 @@ input, select, textarea {
 			.spotlight .right {
 				text-align: center;
 				padding: 0.35em;
-				width: 12em;
+				/* width: 12em; */
 			}
 
 			.spotlight .image {
